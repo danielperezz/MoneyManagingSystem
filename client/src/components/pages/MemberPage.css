@@ -1,0 +1,36 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+td {
+    text-align: right;
+    vertical-align: top;
+}
+
+.member-details-header {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#delete-member-button {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+}
+
+#delete-icon {
+    color: rgb(226, 122, 122);
+}
+
+#edit-button {
+    position: absolute;
+    bottom: 5px;
+    left: 60px;
+}
+
+#edit-icon {
+    color: grey;
+}

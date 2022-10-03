@@ -1,0 +1,16 @@
+.card {
+    border-radius: 12px;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    background-color: rgb(244, 244, 244);
+    margin: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    break-inside: avoid;
+    line-break: avoid;
+    position: relative;
+}
+
+#card-content {
+    padding: 20px;
+    break-inside: avoid;
+}
