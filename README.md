@@ -1,2 +1,2 @@
 # BritShalom
-Beit-knesset Brit Shalom money managing system in React
+money managing system in React
